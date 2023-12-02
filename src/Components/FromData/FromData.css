@@ -1,0 +1,23 @@
+
+
+.form-wrapper{
+    border: 1px solid teal;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+label{
+    display: block;
+    /* border: 1px solid red; */
+    margin: 10px 0;
+}
+
+input{
+    /* margin-left: 10px; */
+    display: block;
+    padding: 8px 15px;
+    outline: none;
+    font-size: 16px;
+    /* margin: 10px 0; */
+}
